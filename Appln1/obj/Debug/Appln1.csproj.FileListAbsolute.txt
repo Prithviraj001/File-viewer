@@ -1,0 +1,104 @@
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\bin\Debug\Appln1.exe.config
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\bin\Debug\Appln1.exe
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\bin\Debug\Appln1.pdb
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\Appln1.csprojResolveAssemblyReference.cache
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\MainWindow.g.cs
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\App.g.cs
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\Appln1_MarkupCompile.cache
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\Appln1_MarkupCompile.lref
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\MainWindow.baml
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\Appln1.g.resources
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\Appln1.Properties.Resources.resources
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\Appln1.csproj.GenerateResource.cache
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\Appln1.csproj.CoreCompileInputs.cache
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\Appln1.exe
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\Appln1.pdb
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\View\DocViewer.g.cs
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\View\VideoPlayer.g.cs
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\View\DocViewer.baml
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\View\VideoPlayer.baml
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\View\ImageViewer.g.cs
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\View\ImageViewer.baml
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\View\ExcelViewer.g.cs
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\View\PDFViewer.g.cs
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\View\ExcelViewer.baml
+C:\Users\akhil\Documents\Visual Studio 2017\Projects\Appln1\Appln1\obj\Debug\View\PDFViewer.baml
+G:\Appln1\bin\Debug\Appln1.exe.config
+G:\Appln1\bin\Debug\Appln1.exe
+G:\Appln1\bin\Debug\Appln1.pdb
+G:\Appln1\obj\Debug\Appln1.csprojResolveAssemblyReference.cache
+G:\Appln1\obj\Debug\MainWindow.g.cs
+G:\Appln1\obj\Debug\View\DocViewer.g.cs
+G:\Appln1\obj\Debug\View\ExcelViewer.g.cs
+G:\Appln1\obj\Debug\View\ImageViewer.g.cs
+G:\Appln1\obj\Debug\View\PDFViewer.g.cs
+G:\Appln1\obj\Debug\View\VideoPlayer.g.cs
+G:\Appln1\obj\Debug\App.g.cs
+G:\Appln1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Appln1\obj\Debug\Appln1_MarkupCompile.cache
+G:\Appln1\obj\Debug\Appln1_MarkupCompile.lref
+G:\Appln1\obj\Debug\MainWindow.baml
+G:\Appln1\obj\Debug\View\DocViewer.baml
+G:\Appln1\obj\Debug\View\ExcelViewer.baml
+G:\Appln1\obj\Debug\View\ImageViewer.baml
+G:\Appln1\obj\Debug\View\PDFViewer.baml
+G:\Appln1\obj\Debug\View\VideoPlayer.baml
+G:\Appln1\obj\Debug\Appln1.g.resources
+G:\Appln1\obj\Debug\Appln1.Properties.Resources.resources
+G:\Appln1\obj\Debug\Appln1.csproj.GenerateResource.Cache
+G:\Appln1\obj\Debug\Appln1.csproj.CoreCompileInputs.cache
+G:\Appln1\obj\Debug\Appln1.exe
+G:\Appln1\obj\Debug\Appln1.pdb
+G:\Viewer\Appln1\bin\Debug\Appln1.exe.config
+G:\Viewer\Appln1\bin\Debug\Appln1.exe
+G:\Viewer\Appln1\bin\Debug\Appln1.pdb
+G:\Viewer\Appln1\obj\Debug\Appln1.csprojResolveAssemblyReference.cache
+G:\Viewer\Appln1\obj\Debug\MainWindow.g.cs
+G:\Viewer\Appln1\obj\Debug\View\DocViewer.g.cs
+G:\Viewer\Appln1\obj\Debug\View\ExcelViewer.g.cs
+G:\Viewer\Appln1\obj\Debug\View\ImageViewer.g.cs
+G:\Viewer\Appln1\obj\Debug\View\PDFViewer.g.cs
+G:\Viewer\Appln1\obj\Debug\View\VideoPlayer.g.cs
+G:\Viewer\Appln1\obj\Debug\App.g.cs
+G:\Viewer\Appln1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Viewer\Appln1\obj\Debug\Appln1_MarkupCompile.cache
+G:\Viewer\Appln1\obj\Debug\Appln1_MarkupCompile.lref
+G:\Viewer\Appln1\obj\Debug\MainWindow.baml
+G:\Viewer\Appln1\obj\Debug\View\DocViewer.baml
+G:\Viewer\Appln1\obj\Debug\View\ExcelViewer.baml
+G:\Viewer\Appln1\obj\Debug\View\ImageViewer.baml
+G:\Viewer\Appln1\obj\Debug\View\PDFViewer.baml
+G:\Viewer\Appln1\obj\Debug\View\VideoPlayer.baml
+G:\Viewer\Appln1\obj\Debug\Appln1.g.resources
+G:\Viewer\Appln1\obj\Debug\Appln1.Properties.Resources.resources
+G:\Viewer\Appln1\obj\Debug\Appln1.csproj.GenerateResource.Cache
+G:\Viewer\Appln1\obj\Debug\Appln1.csproj.CoreCompileInputs.cache
+G:\Viewer\Appln1\obj\Debug\Appln1.exe
+G:\Viewer\Appln1\obj\Debug\Appln1.pdb
+C:\Users\Prithvi\Documents\Viewer\Appln1\bin\Debug\Appln1.exe.config
+C:\Users\Prithvi\Documents\Viewer\Appln1\bin\Debug\Appln1.exe
+C:\Users\Prithvi\Documents\Viewer\Appln1\bin\Debug\Appln1.pdb
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\Appln1.csprojResolveAssemblyReference.cache
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\MainWindow.g.cs
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\View\DocViewer.g.cs
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\View\ExcelViewer.g.cs
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\View\ImageViewer.g.cs
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\View\PDFViewer.g.cs
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\View\VideoPlayer.g.cs
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\App.g.cs
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\Appln1_MarkupCompile.cache
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\Appln1_MarkupCompile.lref
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\MainWindow.baml
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\View\DocViewer.baml
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\View\ExcelViewer.baml
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\View\ImageViewer.baml
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\View\PDFViewer.baml
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\View\VideoPlayer.baml
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\Appln1.g.resources
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\Appln1.Properties.Resources.resources
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\Appln1.csproj.GenerateResource.cache
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\Appln1.csproj.CoreCompileInputs.cache
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\Appln1.exe
+C:\Users\Prithvi\Documents\Viewer\Appln1\obj\Debug\Appln1.pdb
